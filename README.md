@@ -1,3 +1,7 @@
+<p align=center>
+<a href="https://hub.docker.com/r/jbattersby/librenms/"><img src="https://img.shields.io/docker/pulls/jbattersby/librenms.svg?style=flat-square" alt="Docker Pulls"></a>
+</p>
+
 ## About
 
 🐳 [LibreNMS](https://www.librenms.org/) Docker image based on Alpine Linux and Nginx for the Raspberry PI.<br />
