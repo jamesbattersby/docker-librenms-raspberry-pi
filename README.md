@@ -1,6 +1,6 @@
 <p align=center>
 <a href="https://hub.docker.com/r/jbattersby/librenms/"><img src="https://img.shields.io/docker/pulls/jbattersby/librenms.svg?style=flat-square" alt="Docker Pulls"></a>
-<a href="https://travis-ci.org/jamesbattersby/docker-rrdcached-librenms-raspberry-pi"><img src="https://travis-ci.org/jamesbattersby/docker-rrdcached-librenms-raspberry-pi.svg?branch=master" alt="Build Status"></a>
+<a href="https://travis-ci.org/jamesbattersby/docker-librenms-raspberry-pi"><img src="https://travis-ci.org/jamesbattersby/docker-librenms-raspberry-pi.svg?branch=master" alt="Build Status"></a>
 </p>
 
 ## About
